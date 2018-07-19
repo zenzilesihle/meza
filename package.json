@@ -1,8 +1,8 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Njongozethu Holdings",
+    "name": "njongozethu_holdings",
     "version": "4.1.1",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "Njongozethu Holdings Website",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+    "homepage": "",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "",
+        "email": ""
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        ""
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": ""
     },
     "dependencies": {
         "bootstrap": "4.1.1",

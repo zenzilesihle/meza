@@ -1,2 +1,2 @@
-Simple Single Page Website
-With Contact Form
+**Simple Single Page Website
+With Contact Form**
